@@ -1,9 +1,9 @@
 # IBM-TEAM-ASSIGNMENT-
-# VAPT Practicals — Team Repository
+# Practicals — Team Repository
 
 **Course / Instructor:** IBM Faculty Practice
 
-**Team:** Team 3 — VAPT Practicals
+**Team:** — VAPT Practicals
 
 **Date:** [2025-10-10]
 
@@ -11,7 +11,7 @@
 
 ## Project overview
 
-This repository contains practical, lab-based exercises performed as part of the IBM faculty VAPT/practical sessions. Each team member implemented a different practical and added reports, scripts, and redacted evidence into their assigned folder.
+This repository contains practical, lab-based exercises performed as part of the IBM faculty practical sessions. Each team member implemented a different practical and added reports, scripts, and redacted evidence into their assigned folder.
 
 **Purpose:** educational — to demonstrate concepts in phishing awareness, asymmetric cryptography (RSA), and controlled penetration-testing techniques in an isolated lab environment.
 
@@ -25,37 +25,16 @@ This repository contains practical, lab-based exercises performed as part of the
 * **Adarsh Gupta** — `practice-02_rsa-encryption` — RSA key generation, encryption, decryption, and hybrid RSA+AES demo.
 * **Vinayak Chauhan** — `practice-03_vstp-backdoor` — lab exercise demonstrating controlled backdoor/access techniques using Metasploitable (lab-only, for learning defensive and detection controls).
 
-Each folder contains:
-
-* `report.md` — the practical report (findings, evidence, recommendations)
-* `scripts/` — demo scripts (marked as safe demo code)
-* `screenshots/` — redacted evidence images (PII & credentials removed)
-* `README.md` — short readme for how to run the lab locally
-
 ---
 
-## Repo structure (recommended)
+## Repo structure 
 
 ```
 VAPT-Practicals-Team3/
 ├─ README.md
-├─ CONTRIBUTING.md
-├─ LICENSE
-├─ practice-01_zphisher-phishing/
-│  ├─ report.md
-│  ├─ scripts/
-│  └─ screenshots/
-├─ practice-02_rsa-encryption/
-│  ├─ report.md
-│  ├─ scripts/
-│  │  ├─ generate_keys.py
-│  │  ├─ encrypt.py
-│  │  └─ decrypt.py
-│  └─ screenshots/
+├─ practice-01_zphisher-phishing/PRATEEK SAHU PHISHING PAGE ibm assignment.pdf
+├─ practice-02_rsa-encryption/ADARSH GUPTA RSA ENCRYPTION AND DECRYPTION ibm assignment.pdf
 └─ practice-03_vstp-backdoor/
-   ├─ report.md
-   ├─ scripts/
-   └─ screenshots/
 ```
 
 ---
@@ -74,15 +53,12 @@ Each practice folder includes a `README.md` with exact commands and prerequisite
 
 ### Running RSA demos (Adarsh)
 
-1. Open a terminal in `practice-02_rsa-encryption/scripts/`.
-2. Install dependencies: `pip install cryptography` (if required).
-3. Run `python generate_keys.py` → generates `private.pem` and `public.pem` (demo keys). **Do not commit `private.pem` to the repo** (it should be added to `.gitignore` or kept out of public repos).
-4. Run `python encrypt.py` then `python decrypt.py` to verify RSA encryption/decryption examples.
-
+1. Open folder name :- `ADARSH GUPTA RSA ENCRYPTION AND DECRYPTION ibm assignment.pdf`
+* Evidence screenshots are stored. Do not store or publish captured credentials.
 ### Viewing the phishing report (Prateek)
 
-* Open `practice-01_zphisher-phishing/report.md` for findings, campaign metrics, and redacted screenshots.
-* Evidence screenshots are stored in the `screenshots/` folder (redacted). Do not store or publish captured credentials.
+* Open `PRATEEK SAHU PHISHING PAGE ibm assignment.pdf` for findings, campaign metrics, and redacted screenshots.
+* Evidence screenshots are stored. Do not store or publish captured credentials.
 
 ### Metasploitable lab notes (Vinayak)
 
