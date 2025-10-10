@@ -30,7 +30,7 @@ This repository contains practical, lab-based exercises performed as part of the
 ## Repo structure 
 
 ```
-VAPT-Practicals-Team3/
+IBM-TEAM-ASSIGNMENT-
 ├─ README.md
 ├─ practice-01_zphisher-phishing/PRATEEK SAHU PHISHING PAGE ibm assignment.pdf
 ├─ practice-02_rsa-encryption/ADARSH GUPTA RSA ENCRYPTION AND DECRYPTION ibm assignment.pdf
