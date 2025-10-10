@@ -3,7 +3,7 @@
 
 **Course / Instructor:** IBM Faculty Practice
 
-**Team:** — VAPT Practicals
+**Team:** — Practicals
 
 **Date:** [2025-10-10]
 
