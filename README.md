@@ -97,13 +97,4 @@ This repository is for coursework. Choose an appropriate license (e.g., MIT) or 
 
 ---
 
-## Final notes
-
-If you want, I can:
-
-* Generate a `CONTRIBUTING.md` with exact commit/PR conventions and `.gitignore` entries.
-* Produce per-practice `README.md` files with runnable commands tuned for DevLang or Replit.
-* Create a one-page project summary (PDF) for submission to the instructor.
-
-Tell me which of those you'd like next and I’ll add them right away.
 
