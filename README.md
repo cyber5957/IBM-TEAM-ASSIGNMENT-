@@ -92,8 +92,8 @@ Each practice folder includes a `README.md` with exact commands and prerequisite
 ---
 
 ## License
-
-This repository is for coursework. Choose an appropriate license (e.g., MIT) or follow your course/organization policy.
+MIT
+This repository is for coursework.
 
 ---
 
